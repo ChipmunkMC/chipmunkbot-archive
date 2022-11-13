@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@mozilla/readability": "^0.4.1",
+    "@skeldjs/client": "^2.15.17",
+    "@tonejs/midi": "^2.0.27",
+    "axios": "^0.27.2",
+    "badwords": "^1.0.0",
+    "canvas": "^2.9.1",
+    "colorsys": "^1.0.22",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "kahoot.js-api": "^2.4.0",
+    "minecraft-protocol": "^1.35.0",
+    "mojangson": "^2.0.2",
+    "moment": "^2.29.1",
+    "namemc": "^1.8.16",
+    "node-fetch": "^3.2.3",
+    "path": "^0.12.7",
+    "prismarine-nbt": "^2.2.0",
+    "rfb2": "^0.2.2",
+    "standard": "^16.0.4",
+    "tmp": "^0.2.1",
+    "translate": "^1.4.1",
+    "urban-dictionary": "^3.0.2",
+    "vm2": "^3.9.9",
+    "wikipedia": "^1.1.9"
+  }
+}
