@@ -106,3 +106,8 @@ dist
 # Config files
 config.js
 config.json
+
+# Other
+logs
+music
+images
